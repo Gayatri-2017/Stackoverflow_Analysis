@@ -6,6 +6,12 @@
 3. Kunal Niranjan Desai
 4. Ria Gupta
 
+## Data Pipeline
+![Project_Pipeline](./images/Project_Pipeline.png)
+
+## Project Working
+![Project_Working](./images/Project_Working.png)
+
 ## Data
 https://bigquery.cloud.google.com/dataset/bigquery-public-data:stackoverflow
 
