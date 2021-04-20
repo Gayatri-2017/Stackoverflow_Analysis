@@ -22,11 +22,10 @@ https://public.tableau.com/views/StackOverflow_Analysis/UserAnalysis?:display_co
 
 1. Use the Google Big Query API to query the data from Bigquery Dataset.
 2. Upload the files onto Amazon S3 bucket and set up the Amazon EMR.
-3. Upload the files onto Amazon S3 bucket and set up the Amazon EMR.
-4. Use startup.sh to set up the environment in AWS CLI.
-5. Run table_name_producer.py and table_name_stream.py to run the Kafka producer and consumer process.
-6. See if parquet files are formed in the cluster under the specified location.
-7. Use Tableau link above to visualize the analysis made on the data.
+3. Use startup.sh to set up the environment in AWS CLI.
+4. Run table_name_producer.py and table_name_stream.py to run the Kafka producer and consumer process.
+5. See if Parquet files are formed in the cluster under the specified location.
+6. Use Tableau link above to visualize the analysis made on the data.
 
 
 
