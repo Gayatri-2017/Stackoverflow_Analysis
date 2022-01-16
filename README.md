@@ -1,5 +1,11 @@
 # Unstack the “Big Stack”
 
+The objective of the project is to engineer Stack Overflow website’s real-time data with streaming and do some analysis to visualize some of the interesting trends.
+
+Started in 2008, the popular site, Stack Overflow, has huge amounts of data that need to be handled and processed at a continuous rate. It is a very widely used question and answer forum for professional and enthusiastic programmers. A post can be a question, an answer to a question or comments on other posts. Posts contain various attributes like tags, upvotes, downvotes, views, etc. Users of Stack Overflow are encouraged to participate on the website to post quality questions and answers and are awarded reputation scores and badges. Such features help employers identify potential developers on the site for a particular technology. 
+
+The project provides some intetesting trends and insights of Stack Overflow website. 
+
 ## Team Members:
 1. Ankita Kundra
 2. Gayatri Ganapathy
